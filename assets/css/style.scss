@@ -370,11 +370,22 @@ main {
     }
 
     .contents {
+      width: 90vw;
       margin-top: 240px;
 
       .content {
         &.active {
           margin: 0;
+        }
+
+        .activities {
+          &__year {
+            margin-right: 20px;
+          }
+
+          &__contentBlock {
+            padding-left: 24px;
+          }
         }
       }
     }

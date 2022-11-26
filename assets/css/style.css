@@ -314,9 +314,16 @@ main .contents .productions__image:hover {
     justify-content: center;
   }
   main .contents {
+    width: 90vw;
     margin-top: 240px;
   }
   main .contents .content.active {
     margin: 0;
+  }
+  main .contents .content .activities__year {
+    margin-right: 20px;
+  }
+  main .contents .content .activities__contentBlock {
+    padding-left: 24px;
   }
 }/*# sourceMappingURL=style.css.map */
