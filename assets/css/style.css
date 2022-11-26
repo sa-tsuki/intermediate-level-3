@@ -1,0 +1,17 @@
+body {
+  font-family: "Montserrat", "Noto Sans", sans-serif;
+  color: #3f3f3f;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.font-noto {
+  font-family: "Noto Sans";
+}
+
+.font-roboto {
+  font-family: "Roboto";
+}/*# sourceMappingURL=style.css.map */
